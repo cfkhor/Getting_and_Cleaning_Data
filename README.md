@@ -20,12 +20,12 @@ The attached R script (run_analysis.R) performs the following clean up and new d
 
 1. Merges the training and test sets (train/X_train.txt and test/X_test.txt) and create one data set, i.e cleaned_merge_data.txt 
 
-2. Reads features.txt and extracts only the measurements on the mean and standard deviation for each measurement. 
+2. Reads features.txt and extracts only the measurements on the mean and standard deviation for each measurement
 
 3. Reads activity_labels.txt and applies descriptive activity names to name the activities in the data set
 
 4. The script also appropriately labels the data set with descriptive names
 
-5. Lastly, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject. 
+5. Lastly, the script creates a 2nd, independent tidy data set with the average of each measurement for each activity and each subject
 
 
