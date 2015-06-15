@@ -18,7 +18,7 @@ Instructions:
 
 The attached R script (run_analysis.R) performs the following clean up and new data set:
 
-1. Merges the training and test sets to create one data set, namely train/X_train.txt with test/X_test.txt
+1. Merges the training and test sets (train/X_train.txt and test/X_test.txt) and create one data set, i.e cleaned_merge_data.txt 
 
 2. Reads features.txt and extracts only the measurements on the mean and standard deviation for each measurement. 
 
