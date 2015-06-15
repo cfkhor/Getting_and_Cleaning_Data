@@ -4,9 +4,7 @@ Source of the original data: https://d396qusza40orc.cloudfront.net/getdata%2Fpro
 
 Original description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-(find all project-related materials in the UCI HAR Dataset directory.  
-
-Copies of the important files have been put into this main directory to fulfill the submission requirement)
+(find all project-related materials in the UCI HAR Dataset directory.   Copies of the important files have been put into this main directory to fulfill the submission requirement)
 
 Instructions:
 
